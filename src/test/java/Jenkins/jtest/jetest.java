@@ -41,5 +41,12 @@ public class jetest extends App
 //		//https://www.facebook.com/
 //        System.out.println("Program Run");
 //    }
-}
+	       
+}  
+	
+	@Test
+	public void TC2()
+	{		
+		System.out.println("Successfully Merged to GitHub from local to Remote repository!!!");
+	}
 }
